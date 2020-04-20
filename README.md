@@ -328,8 +328,8 @@ and
 
 
 # This fork #
-This is fork of the Darknet repo with training data, and configs for aerial car detection by YOLOv3.
-Weights can be downloaded here: https://drive.google.com/drive/folders/1fODck5uqfh3AXFE4ArqGcuPvIbdl7Z97?usp=sharing
+This is fork of the Darknet repo with training data, and configs for pothole detection by YOLOv3.
+Weights can be downloaded here: https://drive.google.com/file/d/1KIdYTwQQYuH6CkT6SeurT_tnF1086Vi_/view?usp=sharing
 
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
