@@ -326,25 +326,12 @@ and
  * After each 100 iterations you can stop and later start training from this point. For example, after 2000 iterations you can stop training, and later just start training using: `darknet.exe detector train data/obj.data yolo-obj.cfg backup\yolo-obj_2000.weights`
 
 
-# OR
 
-
-Clone this reposetory  open a **Powershell window** or **git-Bash** or  **command prompt**.
-Navigate to the location of the darknet folder. And use these command below.
-
-```
-./darknet.exe detector demo data/obj.data cfg/yolov3-tiny_obj_custom.cfg backup/yolov3-tiny_obj_custom_final.weights video_path -out_filename output_path
-
-```
-
-<<<<<<< HEAD
-=======
 # This fork #
 This is fork of the Darknet repo with training data, and configs for aerial car detection by YOLOv3.
 Weights can be downloaded here: https://drive.google.com/drive/folders/1fODck5uqfh3AXFE4ArqGcuPvIbdl7Z97?usp=sharing
 
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
->>>>>>> ab79b16adab80c57af4528e428fa696a1cae05a1
 
 
